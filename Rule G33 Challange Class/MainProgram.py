@@ -1,5 +1,5 @@
 """MainProgram"""
 import G33Challange
 while True:
-    var_piano = G33Challange.G33Challange()
-    var_piano.g33calculate()
+    var_g33 = G33Challange.G33Challange()
+    var_g33.g33calculate()
