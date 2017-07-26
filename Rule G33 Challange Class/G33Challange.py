@@ -17,11 +17,11 @@ class G33Challange(object):
                 sys.exit()
             num = float(raw_input('Enter a number:'))
             if choice == "A\r":
-                calc_accuredinterest(num)
+                print "Accured Interest: ", calc_accuredinterest(num)         
             elif choice == "D\r":
-                calc_dollarprice(num)
+                print "Dollar Price: ", calc_dollarprice(num)
             elif choice == "Y\r":
-                calc_yield(num)
+                print "Yield: ", calc_yield(num)
         self.choice = choice
         self.num = num
 
