@@ -11,11 +11,11 @@ class G33ChallangeTests(TestCase):
         self.assertEqual(calc_accuredinterest(2.34567), 2.35)
 
     def test_calc_dollarprice(self):
-        """test_accured_interest"""
+        """test_calc_dollarprice"""
         self.assertEqual(calc_dollarprice(2.34567), 2.345)
 
     def test_calc_yield(self):
-        """test_accured_interest"""
+        """test_calc_yield"""
         self.assertEqual(calc_yield(2.34567), 2.346)
 
 if __name__ == '__main__':
