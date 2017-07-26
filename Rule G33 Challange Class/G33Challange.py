@@ -17,7 +17,7 @@ class G33Challange(object):
                 sys.exit()
             num = float(raw_input('Enter a number:'))
             if choice == "A\r":
-                print "Accured Interest: ", calc_accuredinterest(num)         
+                print "Accured Interest: ", calc_accuredinterest(num)
             elif choice == "D\r":
                 print "Dollar Price: ", calc_dollarprice(num)
             elif choice == "Y\r":
