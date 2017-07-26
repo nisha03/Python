@@ -3,7 +3,7 @@
 def calc_accuredinterest(num):
     """calc_accuredinterest"""
     to_dec = float(truncate_num(num, 3))
-    return '%.2f'%(to_dec)
+    return float('%.2f'%(to_dec))
 
 def calc_dollarprice(num):
     """calc_dollarprice"""
@@ -12,7 +12,7 @@ def calc_dollarprice(num):
 def calc_yield(num):
     """calc_yield"""
     to_dec = float(truncate_num(num, 4))
-    return '%.3f'%(to_dec)
+    return float('%.3f'%(to_dec))
 
 def truncate_num(num, idx):
     """truncate_string"""
