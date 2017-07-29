@@ -1,12 +1,16 @@
 """CSVReading"""
 import csv
 def csv_reader(file_obj):
-    """csv_reader"""
-    reader = csv.reader(file_obj)
+    """Read a CSV file using csv.DictReader"""
+    reader = csv.DictReader(file_obj, delimiter=',')
     for row in reader:
-        print " ".join(row)
+        print row["Date"],
+        print row["Open"],
+        print row["High"],
+        print row["Low"],
+        print row["Close"],
+        print row["Adj Close"]
 
 if __name__ == "__main__":
-    file_path = "AAPL.csv"
-    with open(file_path, "rb") as file_obj:
+    with open("AAPL.csv", "rb") as file_obj:
         csv_reader(file_obj)
