@@ -1,2 +1,2 @@
-python class exercises
-using python version 2.7X
+# python class exercises
+## using python version 2.7X
