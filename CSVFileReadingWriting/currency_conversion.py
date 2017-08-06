@@ -28,11 +28,12 @@ def dollars_to_roman(num):
             rocks -= value
             roman_numerals.append(numeral)
     roman_numerals.append(' Rocks ')
-    for numeral, value in roman_table:
-        while value <= pebbles:
-            pebbles -= value
-            roman_numerals.append(numeral)
-    roman_numerals.append(' pebbles')
+    if pebbles > 0:
+        for numeral, value in roman_table:
+            while value <= pebbles:
+                pebbles -= value
+                roman_numerals.append(numeral)
+        roman_numerals.append(' pebbles')
     return ''.join(roman_numerals)
 
 def main():
