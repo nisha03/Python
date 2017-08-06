@@ -1,54 +1,55 @@
 Date,Open,High,Low,Close,Adj Close,Volume
-2016-08-01,CIV Rocks IV pebbles,CVII Rocks VI pebbles,CIV Rocks ,CVII Rocks IV pebbles,CV Rocks IV pebbles,170149200
-2016-08-08,CVII Rocks V pebbles,CVIII Rocks IX pebbles,CVII Rocks I pebbles,CVIII Rocks I pebbles,CVI Rocks VII pebbles,124505800
-2016-08-15,CVIII Rocks I pebbles,CX Rocks II pebbles,CVIII Rocks ,CIX Rocks III pebbles,CVII Rocks VIII pebbles,132371400
-2016-08-22,CVIII Rocks VIII pebbles,CIX Rocks III pebbles,CVI Rocks III pebbles,CVI Rocks IX pebbles,CV Rocks IV pebbles,123605500
-2016-08-29,CVI Rocks VI pebbles,CVIII Rocks ,CV Rocks V pebbles,CVII Rocks VII pebbles,CVI Rocks II pebbles,133000600
-2016-09-05,CVII Rocks IX pebbles,CVIII Rocks VII pebbles,CIII Rocks I pebbles,CIII Rocks I pebbles,CI Rocks VII pebbles,168803700
-2016-09-12,CII Rocks VI pebbles,CXVI Rocks I pebbles,CII Rocks V pebbles,CXIV Rocks IX pebbles,CXIII Rocks III pebbles,388228200
-2016-09-19,CXV Rocks I pebbles,CXVI Rocks I pebbles,CXI Rocks V pebbles,CXII Rocks VII pebbles,CXI Rocks I pebbles,201095700
-2016-09-26,CXI Rocks VI pebbles,CXIV Rocks VI pebbles,CXI Rocks V pebbles,CXIII Rocks ,CXI Rocks V pebbles,156384000
-2016-10-03,CXII Rocks VII pebbles,CXIV Rocks V pebbles,CXII Rocks II pebbles,CXIV Rocks ,CXII Rocks V pebbles,126029400
-2016-10-10,CXV Rocks ,CXVIII Rocks VI pebbles,CXIV Rocks VII pebbles,CXVII Rocks VI pebbles,CXVI Rocks ,208708400
-2016-10-17,CXVII Rocks III pebbles,CXVIII Rocks II pebbles,CXIII Rocks VIII pebbles,CXVI Rocks V pebbles,CXV Rocks ,115531500
-2016-10-24,CXVII Rocks ,CXVIII Rocks III pebbles,CXIII Rocks III pebbles,CXIII Rocks VII pebbles,CXII Rocks I pebbles,210225600
-2016-10-31,CXIII Rocks VI pebbles,CXIV Rocks II pebbles,CVIII Rocks I pebbles,CVIII Rocks VIII pebbles,CVII Rocks III pebbles,156346500
-2016-11-07,CX Rocks ,CXI Rocks VII pebbles,CV Rocks VIII pebbles,CVIII Rocks IV pebbles,CVII Rocks V pebbles,207019500
-2016-11-14,CVII Rocks VII pebbles,CX Rocks V pebbles,CIV Rocks ,CX Rocks ,CIX Rocks I pebbles,198341400
-2016-11-21,CX Rocks I pebbles,CXII Rocks IV pebbles,CX Rocks ,CXI Rocks VII pebbles,CX Rocks VIII pebbles,94132400
-2016-11-28,CXI Rocks IV pebbles,CXII Rocks IV pebbles,CVIII Rocks VIII pebbles,CIX Rocks IX pebbles,CVIII Rocks IX pebbles,155500000
-2016-12-05,CX Rocks ,CXIV Rocks VI pebbles,CVIII Rocks II pebbles,CXIII Rocks IX pebbles,CXII Rocks IX pebbles,151989600
-2016-12-12,CXIII Rocks II pebbles,CXVI Rocks VII pebbles,CXII Rocks IV pebbles,CXV Rocks IX pebbles,CXIV Rocks IX pebbles,195015600
-2016-12-19,CXV Rocks VIII pebbles,CXVII Rocks V pebbles,CXV Rocks V pebbles,CXVI Rocks V pebbles,CXV Rocks V pebbles,113254700
-2016-12-26,CXVI Rocks V pebbles,CXVIII Rocks ,CXV Rocks IV pebbles,CXV Rocks VIII pebbles,CXIV Rocks VIII pebbles,84828600
-2017-01-02,CXV Rocks VIII pebbles,CXVIII Rocks I pebbles,CXIV Rocks VII pebbles,CXVII Rocks IX pebbles,CXVI Rocks IX pebbles,103845500
-2017-01-09,CXVII Rocks IX pebbles,CXIX Rocks IX pebbles,CXVII Rocks IX pebbles,CXIX Rocks ,CXVIII Rocks ,138810700
-2017-01-16,CXVIII Rocks III pebbles,CXX Rocks V pebbles,CXVIII Rocks II pebbles,CXX Rocks ,CXVIII Rocks IX pebbles,116348000
-2017-01-23,CXX Rocks ,CXXII Rocks IV pebbles,CXIX Rocks V pebbles,CXXI Rocks IX pebbles,CXX Rocks IX pebbles,124539300
-2017-01-30,CXX Rocks IX pebbles,CXXX Rocks IV pebbles,CXX Rocks VI pebbles,CXXIX Rocks ,CXXVII Rocks IX pebbles,249781200
-2017-02-06,CXXIX Rocks I pebbles,CXXXII Rocks IX pebbles,CXXVIII Rocks VIII pebbles,CXXXII Rocks I pebbles,CXXXI Rocks ,136449200
-2017-02-13,CXXXIII Rocks ,CXXXVI Rocks II pebbles,CXXXII Rocks VII pebbles,CXXXV Rocks VII pebbles,CXXXV Rocks I pebbles,136667500
-2017-02-20,CXXXVI Rocks II pebbles,CXXXVII Rocks IV pebbles,CXXXV Rocks II pebbles,CXXXVI Rocks VI pebbles,CXXXVI Rocks ,87908900
-2017-02-27,CXXXVII Rocks I pebbles,CXL Rocks II pebbles,CXXXVI Rocks II pebbles,CXXXIX Rocks VII pebbles,CXXXIX Rocks II pebbles,127474000
-2017-03-06,CXXXIX Rocks III pebbles,CXXXIX Rocks IX pebbles,CXXXVII Rocks ,CXXXIX Rocks I pebbles,CXXXVIII Rocks V pebbles,99672200
-2017-03-13,CXXXVIII Rocks VIII pebbles,CXLI Rocks ,CXXXVIII Rocks VIII pebbles,CXXXIX Rocks IX pebbles,CXXXIX Rocks IV pebbles,121539600
-2017-03-20,CXL Rocks III pebbles,CXLII Rocks VIII pebbles,CXXXIX Rocks VII pebbles,CXL Rocks VI pebbles,CXL Rocks ,129674000
-2017-03-27,CXXXIX Rocks III pebbles,CXLIV Rocks V pebbles,CXXXVIII Rocks VI pebbles,CXLIII Rocks VI pebbles,CXLIII Rocks ,127008900
-2017-04-03,CXLIII Rocks VII pebbles,CXLV Rocks IV pebbles,CXLIII Rocks ,CXLIII Rocks III pebbles,CXLII Rocks VII pebbles,105416200
-2017-04-10,CXLIII Rocks VI pebbles,CXLIII Rocks VIII pebbles,CXL Rocks ,CXLI Rocks ,CXL Rocks IV pebbles,87485700
-2017-04-17,CXLI Rocks IV pebbles,CXLII Rocks IX pebbles,CXL Rocks IV pebbles,CXLII Rocks II pebbles,CXLI Rocks VI pebbles,89248500
-2017-04-24,CXLIII Rocks V pebbles,CXLIV Rocks VIII pebbles,CXLIII Rocks I pebbles,CXLIII Rocks VI pebbles,CXLIII Rocks ,91153700
-2017-05-01,CXLV Rocks I pebbles,CXLVIII Rocks IX pebbles,CXLIV Rocks II pebbles,CXLVIII Rocks IX pebbles,CXLVIII Rocks III pebbles,175351700
-2017-05-08,CXLIX Rocks ,CLVI Rocks IV pebbles,CXLIX Rocks ,CLVI Rocks I pebbles,CLV Rocks IV pebbles,173470600
-2017-05-15,CLVI Rocks ,CLVI Rocks VI pebbles,CXLIX Rocks VII pebbles,CLIII Rocks ,CLIII Rocks ,157354900
-2017-05-22,CLIV Rocks ,CLIV Rocks VIII pebbles,CLII Rocks VI pebbles,CLIII Rocks VI pebbles,CLIII Rocks VI pebbles,103000000
-2017-05-29,CLIII Rocks IV pebbles,CLV Rocks IV pebbles,CLII Rocks II pebbles,CLV Rocks IV pebbles,CLV Rocks IV pebbles,88752900
-2017-06-05,CLIV Rocks III pebbles,CLV Rocks IX pebbles,CXLVI Rocks ,CXLVIII Rocks IX pebbles,CXLVIII Rocks IX pebbles,159159700
-2017-06-12,CXLV Rocks VII pebbles,CXLVII Rocks V pebbles,CXLII Rocks I pebbles,CXLII Rocks II pebbles,CXLII Rocks II pebbles,220530400
-2017-06-19,CXLIII Rocks VI pebbles,CXLVII Rocks I pebbles,CXLIII Rocks VI pebbles,CXLVI Rocks II pebbles,CXLVI Rocks II pebbles,133253000
-2017-06-26,CXLVII Rocks I pebbles,CXLVIII Rocks II pebbles,CXLII Rocks II pebbles,CXLIV Rocks ,CXLIV Rocks ,127060200
-2017-07-03,CXLIV Rocks VIII pebbles,CXLV Rocks III pebbles,CXLII Rocks IV pebbles,CXLIV Rocks I pebbles,CXLIV Rocks I pebbles,79158400
-2017-07-10,CXLIV Rocks I pebbles,CXLIX Rocks III pebbles,CXLIII Rocks III pebbles,CXLIX Rocks ,CXLIX Rocks ,111088400
-2017-07-17,CXLVIII Rocks VIII pebbles,CLI Rocks VII pebbles,CXLVIII Rocks V pebbles,CL Rocks II pebbles,CL Rocks II pebbles,106081600
-2017-07-24,CL Rocks V pebbles,CLIII Rocks VIII pebbles,CXLIX Rocks VIII pebbles,CLII Rocks VII pebbles,CLII Rocks VII pebbles,40207600
-2017-07-26,CLIII Rocks III pebbles,CLIII Rocks IX pebbles,CLIII Rocks ,CLIII Rocks IV pebbles,CLIII Rocks IV pebbles,15778261
+8/1/2016,CIV Rocks IV pebbles,CVII Rocks VI pebbles,CIV Rocks ,CVII Rocks IV pebbles,CV Rocks IV pebbles,170149200
+8/8/2016,CVII Rocks V pebbles,CVIII Rocks IX pebbles,CVII Rocks I pebbles,CVIII Rocks I pebbles,CVI Rocks VII pebbles,124505800
+8/15/2016,CVIII Rocks I pebbles,CX Rocks II pebbles,CVIII Rocks ,CIX Rocks III pebbles,CVII Rocks VIII pebbles,132371400
+8/22/2016,CVIII Rocks VIII pebbles,CIX Rocks III pebbles,CVI Rocks III pebbles,CVI Rocks IX pebbles,CV Rocks IV pebbles,123605500
+8/29/2016,CVI Rocks VI pebbles,CVIII Rocks ,CV Rocks V pebbles,CVII Rocks VII pebbles,CVI Rocks II pebbles,133000600
+9/5/2016,CVII Rocks IX pebbles,CVIII Rocks VII pebbles,CIII Rocks I pebbles,CIII Rocks I pebbles,CI Rocks VII pebbles,168803700
+9/12/2016,CII Rocks VI pebbles,CXVI Rocks I pebbles,CII Rocks V pebbles,CXIV Rocks IX pebbles,CXIII Rocks III pebbles,388228200
+9/19/2016,CXV Rocks I pebbles,CXVI Rocks I pebbles,CXI Rocks V pebbles,CXII Rocks VII pebbles,CXI Rocks I pebbles,201095700
+9/26/2016,CXI Rocks VI pebbles,CXIV Rocks VI pebbles,CXI Rocks V pebbles,CXIII Rocks ,CXI Rocks V pebbles,156384000
+10/3/2016,CXII Rocks VII pebbles,CXIV Rocks V pebbles,CXII Rocks II pebbles,CXIV Rocks ,CXII Rocks V pebbles,126029400
+10/10/2016,CXV Rocks ,CXVIII Rocks VI pebbles,CXIV Rocks VII pebbles,CXVII Rocks VI pebbles,CXVI Rocks ,208708400
+10/17/2016,CXVII Rocks III pebbles,CXVIII Rocks II pebbles,CXIII Rocks VIII pebbles,CXVI Rocks V pebbles,CXV Rocks ,115531500
+10/24/2016,CXVII Rocks ,CXVIII Rocks III pebbles,CXIII Rocks III pebbles,CXIII Rocks VII pebbles,CXII Rocks I pebbles,210225600
+10/31/2016,CXIII Rocks VI pebbles,CXIV Rocks II pebbles,CVIII Rocks I pebbles,CVIII Rocks VIII pebbles,CVII Rocks III pebbles,156346500
+11/7/2016,CX Rocks ,CXI Rocks VII pebbles,CV Rocks VIII pebbles,CVIII Rocks IV pebbles,CVII Rocks V pebbles,207019500
+11/14/2016,CVII Rocks VII pebbles,CX Rocks V pebbles,CIV Rocks ,CX Rocks ,CIX Rocks I pebbles,198341400
+11/21/2016,CX Rocks I pebbles,CXII Rocks IV pebbles,CX Rocks ,CXI Rocks VII pebbles,CX Rocks VIII pebbles,94132400
+11/28/2016,CXI Rocks IV pebbles,CXII Rocks IV pebbles,CVIII Rocks VIII pebbles,CIX Rocks IX pebbles,CVIII Rocks IX pebbles,155500000
+12/5/2016,CX Rocks ,CXIV Rocks VI pebbles,CVIII Rocks II pebbles,CXIII Rocks IX pebbles,CXII Rocks IX pebbles,151989600
+12/12/2016,CXIII Rocks II pebbles,CXVI Rocks VII pebbles,CXII Rocks IV pebbles,CXV Rocks IX pebbles,CXIV Rocks IX pebbles,195015600
+12/19/2016,CXV Rocks VIII pebbles,CXVII Rocks V pebbles,CXV Rocks V pebbles,CXVI Rocks V pebbles,CXV Rocks V pebbles,113254700
+12/26/2016,CXVI Rocks V pebbles,CXVIII Rocks ,CXV Rocks IV pebbles,CXV Rocks VIII pebbles,CXIV Rocks VIII pebbles,84828600
+1/2/2017,CXV Rocks VIII pebbles,CXVIII Rocks I pebbles,CXIV Rocks VII pebbles,CXVII Rocks IX pebbles,CXVI Rocks IX pebbles,103845500
+1/9/2017,CXVII Rocks IX pebbles,CXIX Rocks IX pebbles,CXVII Rocks IX pebbles,CXIX Rocks ,CXVIII Rocks ,138810700
+1/16/2017,CXVIII Rocks III pebbles,CXX Rocks V pebbles,CXVIII Rocks II pebbles,CXX Rocks ,CXVIII Rocks IX pebbles,116348000
+1/23/2017,CXX Rocks ,CXXII Rocks IV pebbles,CXIX Rocks V pebbles,CXXI Rocks IX pebbles,CXX Rocks IX pebbles,124539300
+1/30/2017,CXX Rocks IX pebbles,CXXX Rocks IV pebbles,CXX Rocks VI pebbles,CXXIX Rocks ,CXXVII Rocks IX pebbles,249781200
+2/6/2017,CXXIX Rocks I pebbles,CXXXII Rocks IX pebbles,CXXVIII Rocks VIII pebbles,CXXXII Rocks I pebbles,CXXXI Rocks ,136449200
+2/13/2017,CXXXIII Rocks ,CXXXVI Rocks II pebbles,CXXXII Rocks VII pebbles,CXXXV Rocks VII pebbles,CXXXV Rocks I pebbles,136667500
+2/20/2017,CXXXVI Rocks II pebbles,CXXXVII Rocks IV pebbles,CXXXV Rocks II pebbles,CXXXVI Rocks VI pebbles,CXXXVI Rocks ,87908900
+2/27/2017,CXXXVII Rocks I pebbles,CXL Rocks II pebbles,CXXXVI Rocks II pebbles,CXXXIX Rocks VII pebbles,CXXXIX Rocks II pebbles,127474000
+3/6/2017,CXXXIX Rocks III pebbles,CXXXIX Rocks IX pebbles,CXXXVII Rocks ,CXXXIX Rocks I pebbles,CXXXVIII Rocks V pebbles,99672200
+3/13/2017,CXXXVIII Rocks VIII pebbles,CXLI Rocks ,CXXXVIII Rocks VIII pebbles,CXXXIX Rocks IX pebbles,CXXXIX Rocks IV pebbles,121539600
+3/20/2017,CXL Rocks III pebbles,CXLII Rocks VIII pebbles,CXXXIX Rocks VII pebbles,CXL Rocks VI pebbles,CXL Rocks ,129674000
+3/27/2017,CXXXIX Rocks III pebbles,CXLIV Rocks V pebbles,CXXXVIII Rocks VI pebbles,CXLIII Rocks VI pebbles,CXLIII Rocks ,127008900
+4/3/2017,CXLIII Rocks VII pebbles,CXLV Rocks IV pebbles,CXLIII Rocks ,CXLIII Rocks III pebbles,CXLII Rocks VII pebbles,105416200
+4/10/2017,CXLIII Rocks VI pebbles,CXLIII Rocks VIII pebbles,CXL Rocks ,CXLI Rocks ,CXL Rocks IV pebbles,87485700
+4/17/2017,CXLI Rocks IV pebbles,CXLII Rocks IX pebbles,CXL Rocks IV pebbles,CXLII Rocks II pebbles,CXLI Rocks VI pebbles,89248500
+4/24/2017,CXLIII Rocks V pebbles,CXLIV Rocks VIII pebbles,CXLIII Rocks I pebbles,CXLIII Rocks VI pebbles,CXLIII Rocks ,91153700
+5/1/2017,CXLV Rocks I pebbles,CXLVIII Rocks IX pebbles,CXLIV Rocks II pebbles,CXLVIII Rocks IX pebbles,CXLVIII Rocks III pebbles,175351700
+5/8/2017,CXLIX Rocks ,CLVI Rocks IV pebbles,CXLIX Rocks ,CLVI Rocks I pebbles,CLV Rocks IV pebbles,173470600
+5/15/2017,CLVI Rocks ,CLVI Rocks VI pebbles,CXLIX Rocks VII pebbles,CLIII Rocks ,CLIII Rocks ,157354900
+5/22/2017,CLIV Rocks ,CLIV Rocks VIII pebbles,CLII Rocks VI pebbles,CLIII Rocks VI pebbles,CLIII Rocks VI pebbles,103000000
+5/29/2017,CLIII Rocks IV pebbles,CLV Rocks IV pebbles,CLII Rocks II pebbles,CLV Rocks IV pebbles,CLV Rocks IV pebbles,88752900
+6/5/2017,CLIV Rocks III pebbles,CLV Rocks IX pebbles,CXLVI Rocks ,CXLVIII Rocks IX pebbles,CXLVIII Rocks IX pebbles,159159700
+6/12/2017,CXLV Rocks VII pebbles,CXLVII Rocks V pebbles,CXLII Rocks I pebbles,CXLII Rocks II pebbles,CXLII Rocks II pebbles,220530400
+6/19/2017,CXLIII Rocks VI pebbles,CXLVII Rocks I pebbles,CXLIII Rocks VI pebbles,CXLVI Rocks II pebbles,CXLVI Rocks II pebbles,133253000
+6/26/2017,CXLVII Rocks I pebbles,CXLVIII Rocks II pebbles,CXLII Rocks II pebbles,CXLIV Rocks ,CXLIV Rocks ,127060200
+7/3/2017,CXLIV Rocks VIII pebbles,CXLV Rocks III pebbles,CXLII Rocks IV pebbles,CXLIV Rocks I pebbles,CXLIV Rocks I pebbles,79158400
+7/10/2017,CXLIV Rocks I pebbles,CXLIX Rocks III pebbles,CXLIII Rocks III pebbles,CXLIX Rocks ,CXLIX Rocks ,111088400
+7/17/2017,CXLVIII Rocks VIII pebbles,CLI Rocks VII pebbles,CXLVIII Rocks V pebbles,CL Rocks II pebbles,CL Rocks II pebbles,106081600
+7/24/2017,CL Rocks V pebbles,CLIII Rocks VIII pebbles,CXLIX Rocks VIII pebbles,CLII Rocks VII pebbles,CLII Rocks VII pebbles,40207600
+7/26/2017,CLIII Rocks III pebbles,CLIII Rocks IX pebbles,CLIII Rocks ,CLIII Rocks IV pebbles,CLIII Rocks IV pebbles,15778261
+7/27/2017, NO Rocks , NO Rocks , NO Rocks , NO Rocks , NO Rocks ,0
