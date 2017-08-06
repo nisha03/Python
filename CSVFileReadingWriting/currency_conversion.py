@@ -13,6 +13,28 @@ def dollars_to_euro(num):
     exchange_rate = 0.85
     return num * exchange_rate
 
+def dollars_to_roman(num):
+    """dollars_to_roman"""
+    roman_numerals = []
+    to_str = str(num)
+    split_str1, split_str2 = to_str.split(".")
+    rocks = int(split_str1)
+    pebbles = int(split_str2[0:0+1])
+    roman_table = [("M", 1000), ("CM", 900), ("D", 500), ("CD", 400), ("C", 100),
+                   ("XC", 90), ("L", 50), ("XL", 40), ("X", 10), ("IX", 9), ("V", 5),
+                   ("IV", 4), ("I", 1)]
+    for numeral, value in roman_table:
+        while value <= rocks:
+            rocks -= value
+            roman_numerals.append(numeral)
+    roman_numerals.append(' Rocks ')
+    for numeral, value in roman_table:
+        while value <= pebbles:
+            pebbles -= value
+            roman_numerals.append(numeral)
+    roman_numerals.append(' pebbles')
+    return ''.join(roman_numerals)
+
 def main():
     """main"""
     data = read_data("AAPL.csv")
@@ -20,7 +42,8 @@ def main():
         print arg
         if arg == '-h':
             print 'currency_conversion.py -dtp <to convert from dollars to pounds> OR'
-            print 'currency_conversion.py -dte <to convert from dollars to euro>'
+            print 'currency_conversion.py -dte <to convert from dollars to euro> OR'
+            print 'currency_conversion.py -dtr <to convert from dollars to roman>'
             sys.exit()
         elif arg == '-dtp':
             new_data = convert_data(data, dollars_to_pounds)
@@ -28,6 +51,9 @@ def main():
         elif arg == '-dte':
             new_data = convert_data(data, dollars_to_euro)
             write_data("convert_to_euro.csv", new_data)
+        elif arg == '-dtr':
+            new_data = convert_data(data, dollars_to_roman)
+            write_data("convert_to_roman.csv", new_data)
     print "Convertion completed.."
 
 if __name__ == "__main__":
